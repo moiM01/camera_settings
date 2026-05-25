@@ -1,12 +1,12 @@
 :root {
-  --bg: #0f0f0f;
-  --surface: #1a1a1a;
-  --surface2: #242424;
-  --border: #333;
-  --accent: #e8c04a;
-  --accent2: #c8a030;
-  --text: #e8e8e8;
-  --text-muted: #888;
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --surface2: #eef1f5;
+  --border: #d0d7de;
+  --accent: #1a6ed8;
+  --accent2: #155bb5;
+  --text: #1a1f2e;
+  --text-muted: #6b7280;
   --sidebar-w: 260px;
 }
 
@@ -84,7 +84,7 @@ nav#sidebar ul li a:hover {
 
 nav#sidebar ul li a.active {
   color: var(--accent);
-  background: rgba(232,192,74,0.08);
+  background: rgba(26,110,216,0.08);
   border-left-color: var(--accent);
   font-weight: 600;
 }
@@ -112,7 +112,7 @@ nav#sidebar ul li a.active {
 
 nav#sidebar ul li a.active .nav-num {
   background: var(--accent);
-  color: #000;
+  color: #fff;
 }
 
 .nav-footer {
@@ -259,7 +259,7 @@ table tr:hover td { background: var(--surface); }
 
 /* ── Note/tip ── */
 .note {
-  background: rgba(232,192,74,0.07);
+  background: rgba(26,110,216,0.06);
   border-left: 3px solid var(--accent);
   border-radius: 0 6px 6px 0;
   padding: 14px 18px;
