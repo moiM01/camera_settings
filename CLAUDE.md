@@ -14,10 +14,10 @@ GitHub Pages で公開する静的 HTML サイト。
 ├── CLAUDE.md           ← このファイル（引き継ぎ用）
 ├── index.html          ← トップページ（目次カード）
 ├── style.css           ← 全ページ共通スタイル（ライトモード）
-├── 01-button.html      ← Chapter 1: ボタン割当
-├── 02-exposure.html    ← Chapter 2: カメラの3値について
-├── 03-settings.html    ← Chapter 3: おすすめの設定
-├── 04-lens.html        ← Chapter 4: SEL100400GM スイッチ詳細
+├── 01-button.html      ← Chapter 1: カメラ-ボタン割当
+├── 02-lens.html        ← Chapter 2: レンズ-ボタン割当（SEL100400GM）
+├── 03-settings.html    ← Chapter 3: 想定設定
+├── 04-exposure.html    ← Chapter 4: カメラの3値について
 └── image/              ← 画像ファイル置き場（IMG_XXXX.JPG）
 ```
 
@@ -35,9 +35,9 @@ GitHub Pages で公開する静的 HTML サイト。
 | ページ | 状況 |
 |--------|------|
 | 01-button.html | 記入済み（上面・背面ボタン・ダイヤル）|
-| 02-exposure.html | 記入済み（SS・F値・ISO・段数早見表）|
+| 02-lens.html | 未記入（プレースホルダーのみ）|
 | 03-settings.html | 一部記入済み（想定設定）|
-| 04-lens.html | 未記入（プレースホルダーのみ）|
+| 04-exposure.html | 記入済み（SS・F値・ISO・段数早見表）|
 
 ## Git セットアップ（別環境での作業開始手順）
 ```bash
