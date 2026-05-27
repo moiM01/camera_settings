@@ -36,7 +36,7 @@ GitHub Pages で公開する静的 HTML サイト。
 |--------|------|
 | 01-button.html | 記入済み（上面・背面ボタン・ダイヤル）|
 | 02-exposure.html | 記入済み（SS・F値・ISO・段数早見表）|
-| 03-settings.html | 未記入（プレースホルダーのみ）|
+| 03-settings.html | 一部記入済み（想定設定）|
 | 04-lens.html | 未記入（プレースホルダーのみ）|
 
 ## Git セットアップ（別環境での作業開始手順）
